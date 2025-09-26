@@ -1,6 +1,6 @@
 # L-chat
 
-A lightweight and simple **web-based chatting tool** for messaging within **localhost server** or across devices on the **same network**.
+A lightweight and simple **web-based chatting tool** for messaging with in **localhost server** or across devices on the **same network**.
 
 ---
 
