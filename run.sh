@@ -8,7 +8,7 @@ echo -e "${GREEN}Checking required package...!!!${RESET}"
 sleep 2
 apt install python3 -y
 pip install flask
-echo "alias chat='cd L-chat && python3 run.py'" >> ~/.brash
+echo "alias chat='cd L-chat && python3 run.py'" >> ~/.bashrc
 source ~/.bashrc
 clear
 echo -e "${GREEN}Local chat ( L-chat ) successfully installed in your device${RESET}"
